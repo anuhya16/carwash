@@ -1,0 +1,25 @@
+*{
+	margin:0:;
+	padding:0;
+
+}
+
+/*.column {
+  
+  padding:5px;
+  border-radius:25px;
+  display:block;
+  
+}
+.row{
+	display:flex;
+	justify-content:space-evenly;
+	column-gap:100px;
+	margin-top:170px;	
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
